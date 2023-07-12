@@ -1,0 +1,16 @@
+{
+  "name": "railwayservice",
+  "version": "1.0.0",
+  "description": "API for John Deo Railway server API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "20BK1A6602",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
